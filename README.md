@@ -31,14 +31,14 @@ The project optimizes response times, reduces energy consumption, and provides r
 ![Pin Planner](https://github.com/user-attachments/assets/3ee99148-c06c-41b3-941b-3324ac6d5190)
 
 🧪 Test Cases:
-Test Cases for Smart Elevator Control System
-Test Case 1: Initial State
-Lift 1 Position: 0
-Lift 2 Position: 0
-Call Floor: 0
-Responded Lift: 1
-Direction: None
-LED Status: None
+Test Cases for Smart Elevator Control System  
+Test Case 1: Initial State  
+Lift 1 Position: 0  
+Lift 2 Position: 0  
+Call Floor: 0  
+Responded Lift: 1  
+Direction: None  
+LED Status: None  
 ![image](https://github.com/user-attachments/assets/9b0ffac9-87a4-4af5-8d49-944fd21ae192)
 
 Test Case 2: Both Lifts at Same Position
