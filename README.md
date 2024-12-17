@@ -15,9 +15,17 @@ The project optimizes response times, reduces energy consumption, and provides r
 4.	7-Segment Display: Displays the elevator responding to the call.
 5.	Real-Time Operation: Implemented on a CPLD 2900 board for fast and accurate response.
 
-🛠️ Technologies Used
+🛠️ Tools Used
 1. Hardware Description Language: Verilog
 2. Simulation Tools: Quartus II 8.1 Web Edition for code synthesis and implementation.
 3. Hardware: CPLD 2900 Board
 
 ![Quartus II 8 1 Web Edition](https://github.com/user-attachments/assets/45b078f5-8f02-4e8f-b4e6-55c442ea48ec)
+
+⚙️ Algorithm
+![Smart Elevator](https://github.com/user-attachments/assets/bdd0fe5d-9815-40cf-bf0d-b27bfa3e0afe)
+
+🗺️ Pin Planner
+![Pin Planner](https://github.com/user-attachments/assets/3ee99148-c06c-41b3-941b-3324ac6d5190)
+
+
