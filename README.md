@@ -1,4 +1,4 @@
-# Smart_Elevator_Control
+![image](https://github.com/user-attachments/assets/a608a83f-34c2-4931-861b-56671251bd84)# Smart_Elevator_Control
 A two-elevator single call button control system implemented using Verilog and CPLD.
 
 📜 Project Overview
@@ -17,8 +17,6 @@ The project optimizes response times, reduces energy consumption, and provides r
 
 🛠️ Technologies Used
 1. Hardware Description Language: Verilog
-2. Simulation Tools:
-  –	Quartus Prime for code synthesis and implementation.
-  –	Proteus for circuit simulation and testing.
+2. Simulation Tools: Quartus II 8.1 Web Edition for code synthesis and implementation.
 3. Hardware: CPLD 2900 Board
 
