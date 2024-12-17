@@ -16,8 +16,9 @@ The project optimizes response times, reduces energy consumption, and provides r
 5.	Real-Time Operation: Implemented on a CPLD 2900 board for fast and accurate response.
 
 🛠️ Technologies Used
-•	Hardware Description Language: Verilog
-•	Simulation Tools:
+1. Hardware Description Language: Verilog
+2. Simulation Tools:
   –	Quartus Prime for code synthesis and implementation.
   –	Proteus for circuit simulation and testing.
-•	Hardware: CPLD 2900 Board
+3. Hardware: CPLD 2900 Board
+
